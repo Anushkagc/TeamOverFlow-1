@@ -4,10 +4,11 @@
 | - |
 ||
 ||
-This project aims to:
+
+**This project aims to:**
 
 - Visualize **Uber's ridership growth** in NYC in 2014 and 2018.
-- .qqVisualize **pickup coordinates** in a real-time map.
+- Visualize **pickup coordinates** in a real-time map.
 - Characterize the demand based on the identified data from the dataset.
 - Estimate the predicted fare using the extracted features from the dataset using two ML Models.
 - Compare **UBER** and **LYFT** on the basis of the number of service cars available and the number of customers in each service.
